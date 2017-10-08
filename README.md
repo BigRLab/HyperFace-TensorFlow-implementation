@@ -7,5 +7,4 @@ HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Loc
 ![Alt text](imgs/1.png?raw=true " ")
 ![Alt text](imgs/2.png?raw=true " ")
 ![Alt text](imgs/3.png?raw=true " ")
-![Alt text](imgs/joker.png?raw=true " ")
 ![Alt text](imgs/res.png?raw=true " ")
